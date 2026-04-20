@@ -1,1 +1,1 @@
-https://github.com/Gran1d/slozhno-sosredotochitsya-fd.git
+https://github.com/Gran1d/slozhno-sosredotochitsya-fd
